@@ -10,7 +10,7 @@ import sim
 # ===== Parameters =====
 BOX_WIDTH = 1.5  # Rectangular width
 BOX_HEIGHT = 1.0 # Rectangular height
-N = 10           # Number of moving points
+N = 1000           # Number of moving points
 SPEED = 0.02
 FRAMES = 300
 INTERVAL = 30
